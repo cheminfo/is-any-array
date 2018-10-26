@@ -1,6 +1,6 @@
 {
   "name": "is-any-array",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Check if toString.call ends with Array",
   "main": "./src/index.js",
   "files": [
