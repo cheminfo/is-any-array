@@ -17,7 +17,7 @@ Check if toString.call ends with Array
 ## Example
 
 ```js
-const {isAnyArray} = require('is-any-array');
+const isAnyArray = require('is-any-array');
 
   isAnyArray(1); // false
   isAnyArray('ab'); // false

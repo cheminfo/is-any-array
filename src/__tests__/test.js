@@ -1,4 +1,4 @@
-import { isAnyArray } from '..';
+import isAnyArray from '..';
 
 test('isArray', () => {
   expect(isAnyArray(1)).toBe(false);
