@@ -43,9 +43,9 @@
     "eslint-plugin-prettier": "^3.1.2",
     "jest": "^25.1.0",
     "npm-run-all": "^4.1.5",
-    "prettier": "^1.19.1"
+    "prettier": "^1.19.1",
+    "rollup": "^1.31.1"
   },
   "dependencies": {
-    "rollup": "^1.31.1"
   }
 }
