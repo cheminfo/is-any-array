@@ -34,7 +34,7 @@ const isAnyArray = require('is-any-array');
 [npm-url]: https://www.npmjs.com/package/is-any-array
 [build-image]: https://github.com/cheminfo/is-any-array/workflows/Node.js%20CI/badge.svg
 [build-url]: https://github.com/cheminfo/is-any-array/actions?query=workflow%3A%22Node.js+CI%22
-[codecov-image]: https://img.shields.io/codecov/c/github/cheminfo-js/is-any-array.svg?style=flat-square
-[codecov-url]: https://codecov.io/gh/cheminfo-js/is-any-array
+[codecov-image]: https://img.shields.io/codecov/c/github/cheminfo/is-any-array.svg?style=flat-square
+[codecov-url]: https://codecov.io/gh/cheminfo/is-any-array
 [download-image]: https://img.shields.io/npm/dm/is-any-array.svg?style=flat-square
 [download-url]: https://www.npmjs.com/package/is-any-array
