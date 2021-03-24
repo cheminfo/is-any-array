@@ -2,7 +2,6 @@
 
 [![NPM version][npm-image]][npm-url]
 [![build status][build-image]][build-url]
-[![Test coverage][codecov-image]][codecov-url]
 [![npm download][download-image]][download-url]
 
 Check if a value is any kind of array.
