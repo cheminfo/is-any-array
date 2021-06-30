@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.1](https://www.github.com/cheminfo/is-any-array/compare/v1.0.0...v1.0.1) (2021-06-30)
+
+
+### Bug Fixes
+
+* rollup in dependencies ! ([7c26c34](https://www.github.com/cheminfo/is-any-array/commit/7c26c3416287c57eaeb9fc481fb2a7b107cfa984))
+
 ## [1.0.0](https://www.github.com/cheminfo/is-any-array/compare/v0.1.1...v1.0.0) (2021-03-24)
 
 

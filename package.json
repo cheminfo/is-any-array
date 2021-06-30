@@ -1,6 +1,6 @@
 {
   "name": "is-any-array",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check if a value is any kind of array",
   "main": "lib/index.js",
   "module": "src/index.js",
