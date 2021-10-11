@@ -13,7 +13,7 @@ Check if a value is any kind of array.
 ## Example
 
 ```js
-const isAnyArray = require('is-any-array');
+const {isAnyArray} = require('is-any-array');
 
 isAnyArray(1); // false
 isAnyArray('ab'); // false
