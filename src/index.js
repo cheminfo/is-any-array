@@ -5,6 +5,6 @@ const toString = Object.prototype.toString;
  * @param {any} object to check
  * @returns {boolean}
  */
-export default function isAnyArray(object) {
+export function isAnyArray(object) {
   return toString.call(object).endsWith('Array]');
 }
