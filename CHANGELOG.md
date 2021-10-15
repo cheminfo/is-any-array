@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://www.github.com/cheminfo/is-any-array/compare/v1.0.1...v2.0.0) (2021-10-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* docs: add jsdoc
+
+### Code Refactoring
+
+* setup project for TypeScript ([#7](https://www.github.com/cheminfo/is-any-array/issues/7)) ([21e47a0](https://www.github.com/cheminfo/is-any-array/commit/21e47a02e36987208b5aa22906c1cbfee3322775))
+
 ### [1.0.1](https://www.github.com/cheminfo/is-any-array/compare/v1.0.0...v1.0.1) (2021-06-30)
 
 
