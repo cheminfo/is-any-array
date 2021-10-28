@@ -5,7 +5,7 @@
 
 ### ⚠ BREAKING CHANGES
 
-* docs: add jsdoc
+When using this project you will need to use a named import: `import { isAnyArray } from 'is-any-array'`.
 
 ### Code Refactoring
 
