@@ -5,5 +5,5 @@
  * @returns {boolean} True if the object is an array.
  */
 export function isAnyArray(value) {
-  return Object.prototype.toString.call(value).slice(8, -1) === 'Array';
+  return Object.prototype.toString.call(value).slice(-6, -1) === 'Array';
 }
