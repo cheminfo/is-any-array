@@ -1,5 +1,3 @@
-const toString = Object.prototype.toString;
-
 /**
  * Checks if an object is an instance of an Array (array or typed array).
  *
@@ -7,5 +5,5 @@ const toString = Object.prototype.toString;
  * @returns {boolean} True if the object is an array.
  */
 export function isAnyArray(value) {
-  return toString.call(value).endsWith('Array]');
+  return Object.prototype.toString.call(value).endsWith('Array]');
 }
