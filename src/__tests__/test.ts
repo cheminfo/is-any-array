@@ -8,4 +8,5 @@ test('isArray', () => {
   expect(isAnyArray([])).toBe(true);
   expect(isAnyArray([1, 2, 3])).toBe(true);
   expect(isAnyArray(new Uint16Array(2))).toBe(true);
+  expect(isAnyArray(new BigUint64Array(1))).toBe(false);
 });
