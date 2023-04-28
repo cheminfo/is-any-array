@@ -29,7 +29,7 @@ isAnyArray(new Uint16Array(2))) // true;
 
 [npm-image]: https://img.shields.io/npm/v/is-any-array.svg
 [npm-url]: https://www.npmjs.com/package/is-any-array
-[build-image]: https://github.com/cheminfo/is-any-array/workflows/Node.js%20CI/badge.svg?branch=master
+[build-image]: https://github.com/cheminfo/is-any-array/workflows/Node.js%20CI/badge.svg?branch=main
 [build-url]: https://github.com/cheminfo/is-any-array/actions?query=workflow%3A%22Node.js+CI%22
 [download-image]: https://img.shields.io/npm/dm/is-any-array.svg
 [download-url]: https://www.npmjs.com/package/is-any-array
