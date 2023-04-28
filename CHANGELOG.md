@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.1](https://github.com/cheminfo/is-any-array/compare/v2.0.0...v2.0.1) (2023-04-28)
+
+
+### Bug Fixes
+
+* improve types and exclude bigint arrays ([c4738a4](https://github.com/cheminfo/is-any-array/commit/c4738a4e6575282e32b04b192b99f1e792fdbb2c))
+
 ## [2.0.0](https://www.github.com/cheminfo/is-any-array/compare/v1.0.1...v2.0.0) (2021-10-15)
 
 
