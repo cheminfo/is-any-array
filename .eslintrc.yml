@@ -1,5 +1,0 @@
-extends: [cheminfo-typescript, cheminfo-typescript/jsdoc]
-parserOptions:
-  sourceType: module
-env:
-  jest: true

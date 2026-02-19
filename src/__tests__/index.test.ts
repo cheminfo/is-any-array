@@ -1,4 +1,6 @@
-import { isAnyArray } from '..';
+import { expect, test } from 'vitest';
+
+import { isAnyArray } from '../index.ts';
 
 test('isArray', () => {
   expect(isAnyArray(1)).toBe(false);
