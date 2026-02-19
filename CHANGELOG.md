@@ -1,5 +1,16 @@
 # Changelog
 
+## [3.0.0](https://github.com/cheminfo/is-any-array/compare/v2.0.1...v3.0.0) (2026-02-19)
+
+
+### ⚠ BREAKING CHANGES
+
+* migrate to typescript tand type:module
+
+### Miscellaneous Chores
+
+* migrate to typescript tand type:module ([f8e1c72](https://github.com/cheminfo/is-any-array/commit/f8e1c72098c8552b80994e16b6dec2495b5ab2ec))
+
 ## [2.0.1](https://github.com/cheminfo/is-any-array/compare/v2.0.0...v2.0.1) (2023-04-28)
 
 
