@@ -32,9 +32,9 @@
   "author": "Luc Patiny <luc@patiny.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cheminfo-js/is-any-array/issues"
+    "url": "https://github.com/cheminfo/is-any-array/issues"
   },
-  "homepage": "https://github.com/cheminfo-js/is-any-array#readme",
+  "homepage": "https://github.com/cheminfo/is-any-array#readme",
   "devDependencies": {
     "@vitest/coverage-v8": "^4.0.18",
     "@zakodium/tsconfig": "^1.0.2",
