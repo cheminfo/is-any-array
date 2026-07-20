@@ -3,7 +3,8 @@
   "compilerOptions": {
     "outDir": "lib",
     "declaration": true,
-    "declarationMap": true
+    "declarationMap": true,
+    "rootDir": "./src"
   },
   "exclude": ["src/**/__tests__"]
 }
